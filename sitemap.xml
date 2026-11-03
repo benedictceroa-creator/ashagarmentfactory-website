@@ -4,7 +4,7 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://www.ashagarmentfactory.co.in/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <image:image><image:loc>https://www.ashagarmentfactory.co.in/Images/hero.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.ashagarmentfactory.co.in/Images/gallery-embroidery.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.ashagarmentfactory.co.in/Images/gallery-sewing-line.jpg</image:loc></image:image>
@@ -19,5 +19,33 @@
       <video:content_loc>https://www.ashagarmentfactory.co.in/Videos/agf-intro.mp4</video:content_loc>
       <video:duration>40</video:duration>
     </video:video>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/private-label-clothing-manufacturer-india/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/t-shirt-manufacturer-india/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/womens-wear-manufacturer-india/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/kids-wear-manufacturer-india/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/low-moq-clothing-manufacturer-india/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/ethical-clothing-manufacturer-india/</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ashagarmentfactory.co.in/garment-embroidery-printing-india/</loc>
+    <lastmod>2026-11-03</lastmod>
   </url>
 </urlset>
